@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>MiliraScenario</name>
+  <author>tyster</author>
+  <packageId>tyster.MiliraScenario</packageId>
+  <supportedVersions>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <modVersion>1.0.0</modVersion>
+  <description>adds milira scenario</description>
+  <modDependencies>
+    <li>
+      <packageId></packageId>
+      <displayName></displayName>
+      <steamWorkshopUrl></steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li></li>
+  </loadAfter>
+</ModMetaData>
