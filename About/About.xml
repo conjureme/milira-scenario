@@ -11,12 +11,12 @@
   <description>adds milira scenario</description>
   <modDependencies>
     <li>
-      <packageId></packageId>
-      <displayName></displayName>
-      <steamWorkshopUrl></steamWorkshopUrl>
+      <packageId>ancot.milirarace</packageId>
+      <displayName>Milira Race</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3256974620</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>
-    <li></li>
+    <li>ancot.milirarace</li>
   </loadAfter>
 </ModMetaData>
